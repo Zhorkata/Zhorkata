@@ -1,4 +1,6 @@
 ### Hi there 👋
+This is my link to LinkedIn profile 
+https://www.linkedin.com/in/georgi-p-186241256/
 
 <!--
 **Zhorkata/Zhorkata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
