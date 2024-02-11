@@ -18,5 +18,6 @@
 
 <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" data-hovercard-type="achievement" data-hovercard-url="/users/Zhorkata/achievements/quickdraw/detail?hovercard=1" width="64" alt="Achievement: Quickdraw" data-view-component="true" class="achievement-badge-sidebar">
 
+<img align="center" src="https://camo.githubusercontent.com/a52c49ebf75d7cba9a6cc6a37626100acd0bb238d7256d09d60c4b157266dca8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7374616e69736c617668727573616e6f762673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="stanislavhrusanov" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=stanislavhrusanov&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
 
 
