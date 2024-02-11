@@ -12,7 +12,7 @@
 <img align="left" alt="github" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" style="max-width: 100%;">
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" style="max-width: 100%;">
 
-<img align="center" src="https://camo.githubusercontent.com/96aa3341e1627e42c840a663f363c7915df8f30799d018af2dfdcc46b7e097e4/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616c65786d6568616e647a686979736b6126636f6c756d6e3d37" alt="GitHub Trophies" data-canonical-src="https://github-profile-trophy.vercel.app/?username=alexmehandzhiyska&amp;column=7" style="max-width: 100%;">
+<img align="center" src="https://camo.githubusercontent.com/96aa3341e1627e42c840a663f363c7915df8f30799d018af2dfdcc46b7e097e4/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616c65786d6568616e647a686979736b6126636f6c756d6e3d37" alt="GitHub Trophies" data-canonical-src="https://github-profile-trophy.vercel.app/?username=zhorkata&amp;column=7" style="max-width: 100%;">
 
 
 
